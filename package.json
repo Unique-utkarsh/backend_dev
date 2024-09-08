@@ -1,0 +1,16 @@
+{
+  "name": "git-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+"start": "node file.js",
+ "dev" : "vite"
+},
+
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
